@@ -5,8 +5,7 @@ devenv (Visual Studio 20XX) for vscode users
 `CTRL Q`
 * Note: the search isn't as fuzzy as `vscode`'s
 
-
-# Ctrl Shift P / Ctrl Shift O / 
+# Ctrl P / Ctrl Shift O / Ctrl T
 
 Ctrl T (Go To All)
 
@@ -16,6 +15,6 @@ Ctrl T (Go To All)
 # File explorer
 "Solution Explorer" + "View All Files"
 
-# Split window right
+# Split Right 
 CTRL-Q + "New Vertical Document Group"
 
