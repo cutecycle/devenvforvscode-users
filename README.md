@@ -1,5 +1,11 @@
 # devenvforvscode-users
-devenv (Visual Studio 20XX) for vscode users
+devenv (Visual Studio 2019, 2022, etc) for vscode users
+
+# Google searching
+Search for the prior 
+
+# `code filename.txt`
+`start devenv filename.txt`
 
 # Command Palette
 `CTRL Q`
