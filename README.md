@@ -2,7 +2,8 @@
 devenv (Visual Studio 2019, 2022, etc) for vscode users
 
 # Google searching
-Search for the prior 
+Search for the prior version to get results: 
+"vs2019 $thingIWantToDo"
 
 # `code filename.txt`
 `start devenv filename.txt`
@@ -14,6 +15,9 @@ Search for the prior
 # Ctrl P / Ctrl Shift O / Ctrl T
 
 Ctrl T (Go To All)
+
+# Copy Path of Active File
+Right click file tab -> Copy Full Path
 
 # Panel
 "Document Group"
